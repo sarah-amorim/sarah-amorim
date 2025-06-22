@@ -12,7 +12,7 @@
   <a href="mailto:sarahamorim665@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="center">🛠️ Linguagens e Ferramentas:</h3>
+<h3 align="center">🛠️ Linguagens e ferramentas:</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
 </p>
 
-<h3 align="center">GitHub Stats & Linguagens Mais Usadas</h3>
+<h3 align="center">GitHub Stats e linguagens mais usadas</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarah-amorim&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
