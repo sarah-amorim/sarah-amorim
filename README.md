@@ -26,21 +26,6 @@
 <h3 align="center">GitHub Stats & Linguagens Mais Usadas</h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sarah-amorim&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-amorim&layout=compact&theme=tokyonight" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarah-amorim&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-amorim&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-amorim&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<hr>
