@@ -6,8 +6,6 @@
 - 🧠 No momento, estou focada em cursos de Python e participando de um grupo de estudos em Visão Computacional.
 - 🌱 Estou aprendendo **Python, HTML5 e SQL**
 
----
-
 ### Conecte-se comigo:
 
 <p align="left">
@@ -16,7 +14,6 @@
   <a href="mailto:sarahamorim665@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
----
 
 ### 🛠️ Linguagens e Ferramentas:
 
@@ -37,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sarah-amorim&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
----
 
 ### Linguagens Mais Usadas
 
