@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Sarah</h1>
 <p align="center">Sou estudante de Sistemas de Informação, com foco em Python para Análise de Dados.</p>
 
-<p align="center">🧠 No momento, estou focada em cursos de Python e participando de um grupo de estudos em Visão Computacional.</p>
-<p align="center">🌱 Estou aprendendo <strong>Python, HTML5 e SQL</strong></p>
+<p>🧠 No momento, estou focada em cursos de Python e participando de um grupo de estudos em Visão Computacional.</p>
+<p>🌱 Estou aprendendo <strong>Python, HTML5 e SQL</strong></p>
 
 <h3 align="center">Conecte-se comigo:</h3>
 
@@ -23,13 +23,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats & Linguagens Mais Usadas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah-amorim&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sarah-amorim&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-amorim&layout=compact&theme=tokyonight" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<h3 align="center">📈 Linguagens Mais Usadas</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-amorim&layout=compact&theme=tokyonight" alt="Top Languages"/>
