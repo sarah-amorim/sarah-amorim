@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Sarah</h1>
 <p align="center">Sou estudante de Sistemas de Informação, com foco em Python para Análise de Dados.</p>
 
----
 
 - 🧠 No momento, estou focada em cursos de Python e participando de um grupo de estudos em Visão Computacional.
 - 🌱 Estou aprendendo **Python, HTML5 e SQL**
@@ -25,8 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
 </p>
-
----
 
 ### GitHub Stats
 
