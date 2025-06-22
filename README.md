@@ -22,10 +22,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
 </p>
-
-<h3 align="center">GitHub Stats e linguagens mais usadas</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah-amorim&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-amorim&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
