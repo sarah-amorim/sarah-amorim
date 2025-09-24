@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Sarah</h1>
+<h1 align="center">Olá 👋</h1>
 <p align="center">Sou estudante de Sistemas de Informação, com foco em Python para Análise de Dados.</p>
 
 <p>🧠 No momento, estou focada em cursos de Python e participando de um grupo de estudos em Visão Computacional.</p>
