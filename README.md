@@ -1,10 +1,4 @@
 <h1 align="center">Olá 👋</h1>
-<p align="center">Sou estudante de Sistemas de Informação, com foco em Python para Análise de Dados.</p>
-
-<p>🧠 No momento, estou focada em cursos de Python e participando de um grupo de estudos em Visão Computacional.</p>
-<p>🌱 Estou aprendendo <strong>Python, HTML5 e SQL</strong></p>
-
-<h3 align="center">Conecte-se comigo:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarah-amorim-3a7037286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
